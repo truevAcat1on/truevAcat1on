@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Максим Ваняшин 👋</h1>
+<h1 align="center">Привет, я Максим Ваняшин</h1>
 
 <p align="center">
 Системный аналитик • 22 года • Москва, Россия  
@@ -45,16 +45,15 @@
 </p>
 
 <p>
-  <!-- Analysis / Management -->
+
   <img src="https://img.shields.io/badge/BPMN-UML-0062AD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jira-Project%20Tracking-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Confluence-Docs-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />
 </p>
 
 <p>
-  <!-- UI / Design / Code -->
+
   <img src="https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io-badge/JavaScript-Projects-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Studio-Experiments-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" />
 </p>
 
