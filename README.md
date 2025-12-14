@@ -10,7 +10,7 @@
 
 - ✉️ vanyashin_maks@mail.ru  
 - 💬 Telegram: [@truevac](https://t.me/truevac)  
-- 🌐 Портфолио: [*мой сайт-портфолио* ](https://truevacat1on.github.io/portfolio/) 
+- 🌐 Портфолио: [*мой сайт-портфолио* ](https://truevacat1on.github.io/portfolio-main/) 
 
 ---
 
